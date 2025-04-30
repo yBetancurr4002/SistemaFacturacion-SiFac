@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiFac.API", "SiFac.API\SiFac.API.csproj", "{102EF888-9B4E-4869-9A17-A5C5D8509ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiFac.BLL", "SiFac.BLL\SiFac.BLL.csproj", "{8D279FE4-F399-40A1-82C6-5880CCE3C63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiFac.DAL", "SiFac.DAL\SiFac.DAL.csproj", "{1B3C3B29-E3FB-4591-B227-BCB01502A021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102EF888-9B4E-4869-9A17-A5C5D8509ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102EF888-9B4E-4869-9A17-A5C5D8509ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102EF888-9B4E-4869-9A17-A5C5D8509ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102EF888-9B4E-4869-9A17-A5C5D8509ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D279FE4-F399-40A1-82C6-5880CCE3C63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D279FE4-F399-40A1-82C6-5880CCE3C63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D279FE4-F399-40A1-82C6-5880CCE3C63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D279FE4-F399-40A1-82C6-5880CCE3C63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3C3B29-E3FB-4591-B227-BCB01502A021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3C3B29-E3FB-4591-B227-BCB01502A021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3C3B29-E3FB-4591-B227-BCB01502A021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3C3B29-E3FB-4591-B227-BCB01502A021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
