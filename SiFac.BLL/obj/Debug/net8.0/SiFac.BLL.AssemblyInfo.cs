@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SiFac.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63f8b72372d1e2b7ba47c293f70cbf033f6a5a1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a3d6ac52f3e948f8daf32366aabe8733d99295")]
 [assembly: System.Reflection.AssemblyProductAttribute("SiFac.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SiFac.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
