@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\bin\Debug\net8.0\SiFac.DAL.deps.json
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\bin\Debug\net8.0\SiFac.DAL.runtimeconfig.json
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\bin\Debug\net8.0\SiFac.DAL.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\bin\Debug\net8.0\SiFac.DAL.pdb
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.sourcelink.json
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\refint\SiFac.DAL.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.pdb
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\SiFac.DAL.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.DAL\obj\Debug\net8.0\ref\SiFac.DAL.dll
