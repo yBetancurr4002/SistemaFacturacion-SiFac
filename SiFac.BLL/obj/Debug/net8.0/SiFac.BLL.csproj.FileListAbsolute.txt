@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\bin\Debug\net8.0\SiFac.BLL.deps.json
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\bin\Debug\net8.0\SiFac.BLL.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\bin\Debug\net8.0\SiFac.BLL.pdb
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\bin\Debug\net8.0\SiFac.DAL.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\bin\Debug\net8.0\SiFac.DAL.pdb
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.sourcelink.json
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.csproj.CopyComplete
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\refint\SiFac.BLL.dll
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\SiFac.BLL.pdb
+C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.BLL\obj\Debug\net8.0\ref\SiFac.BLL.dll

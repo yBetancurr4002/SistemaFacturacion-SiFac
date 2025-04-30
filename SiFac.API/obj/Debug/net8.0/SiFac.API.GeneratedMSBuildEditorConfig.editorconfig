@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SiFac.API
 build_property.RootNamespace = SiFac.API
@@ -17,6 +25,14 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Usuario\Documents\Docencia\HerramientasIII\Proyectos\SistemaFacturacion-SiFac\SiFac.API
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Usuario/Documents/Docencia/HerramientasIII/Proyectos/SistemaFacturacion-SiFac/SiFac.API/Views/Clientes/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/Documents/Docencia/HerramientasIII/Proyectos/SistemaFacturacion-SiFac/SiFac.API/Views/Clientes/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Usuario/Documents/Docencia/HerramientasIII/Proyectos/SistemaFacturacion-SiFac/SiFac.API/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=

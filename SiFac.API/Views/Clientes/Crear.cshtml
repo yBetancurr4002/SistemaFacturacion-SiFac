@@ -1,0 +1,64 @@
+@model SiFac.DAL.Entidades.Cliente
+
+<h2 class="mb-4">Crear Cliente</h2>
+
+<form asp-action="Crear" class="needs-validation" novalidate>
+    <div class="row">
+        <!-- Código del Cliente -->
+        <div class="col-md-6 mb-3">
+            <label asp-for="CodigoCliente" class="form-label"></label>
+            <input asp-for="CodigoCliente" class="form-control" placeholder="Ejemplo: CLI-001" required />
+            <div class="invalid-feedback">
+                El código del cliente es obligatorio.
+            </div>
+        </div>
+
+        <!-- NIT del Cliente -->
+        <div class="col-md-6 mb-3">
+            <label asp-for="Nit" class="form-label"></label>
+            <input asp-for="Nit" class="form-control" placeholder="Ejemplo: 123456789" required />
+            <div class="invalid-feedback">
+                El NIT es obligatorio.
+            </div>
+        </div>
+    </div>
+
+    <!-- Persona Asociada (Opcional) -->
+    <div class="mb-3">
+        <label asp-for="PersonaId" class="form-label">Persona Asociada</label>
+        <select asp-for="PersonaId" class="form-select" aria-label="Seleccionar persona">
+            <option value="">Seleccionar una persona</option>
+            @foreach (var persona in ViewBag.Personas)
+            {
+                <option value="@persona.Id">@persona.Nombre (@persona.NumeroDocumento)</option>
+            }
+        </select>
+        <div class="invalid-feedback">
+            Debe seleccionar una persona válida.
+        </div>
+    </div>
+
+    <!-- Botones de Acción -->
+    <div class="d-flex justify-content-between">
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+        <button type="submit" class="btn btn-success">Guardar</button>
+    </div>
+</form>
+
+<!-- Script para validación de formularios -->
+<script>
+    // Validación de Bootstrap
+    (function () {
+        'use strict';
+        var forms = document.querySelectorAll('.needs-validation');
+        Array.prototype.slice.call(forms).forEach(function (form) {
+            form.addEventListener('submit', function (event) {
+                if (!form.checkValidity()) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                }
+                form.classList.add('was-validated');
+            }, false);
+        });
+    })();
+</script>
